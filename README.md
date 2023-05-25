@@ -2,7 +2,7 @@
 
 Olá, esse é meu primeiro projeto desde que resolvi migrar de área (de Arquitetura para Tecnologia). Desenvolvi com ajuda do curso da Alura de HTML e CSS. 
 
-![captura-portifolio](https://github.com/renatasoaresdorego/portifolio/assets/134607030/4b5ca877-a8e4-42c6-8cda-bd00961f9bc9)
+![Captura de tela 2023-05-25 102947](https://github.com/renatasoaresdorego/portifolio/assets/134607030/537e7f44-3e23-4861-9fe4-121234e558c8)
 
 ## Ferramentas utilizadas:
 
